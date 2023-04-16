@@ -1,0 +1,33 @@
+# Proyectos de Microcontroladores 2 - ESP32 con PlatformIO
+
+¡Hola! Soy [tu nombre] y esta carpeta contiene mis proyectos de Microcontroladores 2 utilizando el ESP32 y PlatformIO.
+
+## Descripción
+
+Estos proyectos fueron creados para la materia de Microcontroladores 2, en la que aprendimos a programar microcontroladores utilizando el ESP32 y la plataforma PlatformIO. Los proyectos abarcan diferentes temas, desde el control de motores hasta la comunicación inalámbrica.
+
+PlatformIO es una herramienta de desarrollo que nos permite escribir, compilar y cargar código en diferentes plataformas de microcontroladores, incluyendo el ESP32. PlatformIO genera una estructura de carpetas por defecto para cada proyecto, que incluye las siguientes carpetas:
+
+- **`include`**: En esta carpeta se almacenan los archivos de encabezado (`*.h`) que son utilizados por el código fuente.
+- **`lib`**: En esta carpeta se almacenan las bibliotecas externas que se utilizan en el proyecto. Las bibliotecas se pueden agregar utilizando el administrador de bibliotecas de PlatformIO o descargándolas manualmente.
+- **`src`**: En esta carpeta se almacena el código fuente (`*.c`, `*.cpp` y `*.h`) del proyecto.
+- **`test`**: En esta carpeta se pueden agregar pruebas de unidad para el proyecto.
+- **`platformio.ini`**: Este archivo es el archivo de configuración principal de PlatformIO y contiene información sobre la plataforma y las herramientas de desarrollo utilizadas para el proyecto.
+
+## Estructura de Carpetas
+
+- **`proyecto1`**: Breve descripción del proyecto 1.
+- **`proyecto2`**: Breve descripción del proyecto 2.
+- **`proyecto3`**: Breve descripción del proyecto 3.
+
+## Requisitos de Software
+
+- [PlatformIO Core](https://docs.platformio.org/en/latest/core/installation.html)
+
+## Requisitos de Hardware
+
+- ESP32
+
+## Licencia
+
+Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
