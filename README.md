@@ -1,10 +1,10 @@
 # Proyectos de Microcontroladores 2 - ESP32 con PlatformIO
 
-¡Hola! Soy [tu nombre] y esta carpeta contiene mis proyectos de Microcontroladores 2 utilizando el ESP32 y PlatformIO.
+¡Hola! Soy Carlos Marquez [carlosjmarq](https://github.com/carlosjmarq) y esta carpeta contiene mis proyectos de Microcontroladores 2 utilizando el ESP32 y PlatformIO.
 
 ## Descripción
 
-Estos proyectos fueron creados para la materia de Microcontroladores 2, en la que aprendimos a programar microcontroladores utilizando el ESP32 y la plataforma PlatformIO. Los proyectos abarcan diferentes temas, desde el control de motores hasta la comunicación inalámbrica.
+Estos proyectos fueron creados para la materia de Microcontroladores 2 en es cuela de ingenieria electriuce de la Universidad Centarl de Venezuela (UCV), en la que aprendimos a implementar distintos sistemas embebidos utilizando el microcontrolador ESP32 y la plataforma PlatformIO. Los proyectos abarcan diferentes temas, desde enceder leds hasta protocolos de comunicacion industrial.
 
 PlatformIO es una herramienta de desarrollo que nos permite escribir, compilar y cargar código en diferentes plataformas de microcontroladores, incluyendo el ESP32. PlatformIO genera una estructura de carpetas por defecto para cada proyecto, que incluye las siguientes carpetas:
 
