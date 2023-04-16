@@ -16,9 +16,10 @@ PlatformIO es una herramienta de desarrollo que nos permite escribir, compilar y
 
 ## Estructura de Carpetas
 
-- **`proyecto1`**: Breve descripción del proyecto 1.
-- **`proyecto2`**: Breve descripción del proyecto 2.
-- **`proyecto3`**: Breve descripción del proyecto 3.
+- **`led_sencillo`**: Parpadeo de un led.
+- **`maquinas-estado-arduino`**: implemenacion sencilla de una maquina de estado en arduino.
+- **`tareas_en_nucleos`**: creacion de diversas tareas y distrubucion de su carga en distintos nucleos del micro.
+- **`tipos-variables`**: estudio de los distintos tipos de variables disponibles en c.
 
 ## Requisitos de Software
 
