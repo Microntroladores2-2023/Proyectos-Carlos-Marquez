@@ -1,0 +1,16 @@
+# PlatformIO build files
+.pio
+/.pioenvs
+/.pio/build
+
+# Other generated files
+/lib
+/include
+/.vscode
+/.idea
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.bak
+*.pyc
