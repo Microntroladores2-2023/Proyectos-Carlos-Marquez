@@ -172,6 +172,7 @@ void setup() {
   xTaskCreatePinnedToCore(blinkLed, "Led blinking", configMINIMAL_STACK_SIZE, &wifiConnected, 5, &xHandle_http_task, 0);
 
   initWiFi(&wifiConnected);
+
   adcQueue = xQueueCreate(10, sizeof(uint32_t));
   wheatherQueue = xQueueCreate(10, sizeof(WheatherInterface));
 
